@@ -38,7 +38,6 @@ My goal is to find a game development job as soon as I finish university. I don�
 In the future, once I have industry experience, I want to move outside of England to work in different places and experience new cultures. While I am eager to leave England, I believe it would be smarter to stay here for the first few years of my career to gain work experience. I think securing my first job will be much easier here than in a different country. 
 
 ## 🌐 Connect with Me  
-📧 Email: Morganhodge101010@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/morgan-hodge-860854256/  
 🎮 Itch.io:  
 🌐 My Website: https://morganhodge.netlify.app/
