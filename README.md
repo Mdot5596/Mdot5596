@@ -25,8 +25,11 @@ Alongside this, I am working on my OpenGL shading module, where I am creating sc
 I am also actively engaging with the industry by attending events and working to find my place in the game development field. 
 
 ## 🚀 Projects  
-🔹 **[Project Name]** - [Short description] ([GitHub Repo](#))  
-🔹 **[Project Name]** - [Short description] ([Itch.io](#))  
+🔹 **[TimeLine Takedown]** - [Short description] ([https://morganhodge.itch.io/timeline-takedown](#))  
+🔹 **[Guard Duty]** - [Short description] ([https://guard-duty.itch.io/guard-duty](#))  
+🔹 **[Cyber Gladiator OpenGL 2D Game]** - [Short description] ([https://github.com/Mdot5596/CyberGladiator](#))  
+🔹 **[Zombie OpenGL Scene]** - [Short description] ([https://github.com/Mdot5596/Zombie-Scene-OpenGL)](#))  
+
 
 By the time I graduate, I want to have a fully completed portfolio website, showcasing my polished version of Timeline Takedown (my final year project) along with other projects I have worked on. 
 
@@ -40,9 +43,3 @@ In the future, once I have industry experience, I want to move outside of Englan
 🎮 Itch.io:  
 🌐 My Website: https://morganhodge.netlify.app/
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
-
----
-
-You can personalize this by adding more sections, updating your skills and projects, and even integrating cool GitHub widgets like commit graphs or visitor counters. Let me know if you’d like any modifications! 🚀
