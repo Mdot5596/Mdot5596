@@ -39,6 +39,6 @@ In the future, once I have industry experience, I want to move outside of Englan
 
 ## 🌐 Connect with Me  
 💼 LinkedIn: https://www.linkedin.com/in/morgan-hodge-860854256/  
-🎮 Itch.io:  
+🎮 Itch.io:  https://morganhodge.itch.io/
 🌐 My Website: https://morganhodge.netlify.app/
 
