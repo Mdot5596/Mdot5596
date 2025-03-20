@@ -25,10 +25,10 @@ Alongside this, I am working on my OpenGL shading module, where I am creating sc
 I am also actively engaging with the industry by attending events and working to find my place in the game development field. 
 
 ## 🚀 Projects  
-🔹 **[TimeLine Takedown]** - [Short description] ([https://morganhodge.itch.io/timeline-takedown](#))  
-🔹 **[Guard Duty]** - [Short description] ([https://guard-duty.itch.io/guard-duty](#))  
-🔹 **[Cyber Gladiator OpenGL 2D Game]** - [Short description] ([https://github.com/Mdot5596/CyberGladiator](#))  
-🔹 **[Zombie OpenGL Scene]** - [Short description] ([https://github.com/Mdot5596/Zombie-Scene-OpenGL)](#))  
+🔹 **[TimeLine Takedown]** - ([https://morganhodge.itch.io/timeline-takedown](#))  
+🔹 **[Guard Duty]** -  ([https://guard-duty.itch.io/guard-duty](#))  
+🔹 **[Cyber Gladiator OpenGL 2D Game]** - ([https://github.com/Mdot5596/CyberGladiator](#))  
+🔹 **[Zombie OpenGL Scene]** -  ([https://github.com/Mdot5596/Zombie-Scene-OpenGL)](#))  
 
 
 By the time I graduate, I want to have a fully completed portfolio website, showcasing my polished version of Timeline Takedown (my final year project) along with other projects I have worked on. 
@@ -39,6 +39,6 @@ In the future, once I have industry experience, I want to move outside of Englan
 
 ## 🌐 Connect with Me  
 💼 LinkedIn: https://www.linkedin.com/in/morgan-hodge-860854256/  
-🎮 Itch.io: https://morganhodge.itch.io/
+🎮 Itch.io: https://morganhodge.itch.io/  
 🌐 My Website: https://morganhodge.netlify.app/
 
