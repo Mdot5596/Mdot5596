@@ -24,12 +24,19 @@ Alongside this, I am working on my OpenGL shading module, where I am creating sc
 
 I am also actively engaging with the industry by attending events and working to find my place in the game development field. 
 
-## 🚀 Projects  
-🔹 **[TimeLine Takedown]** - ([https://morganhodge.itch.io/timeline-takedown](#))  
-🔹 **[Guard Duty]** -  ([https://guard-duty.itch.io/guard-duty](#))  
-🔹 **[Cyber Gladiator OpenGL 2D Game]** - ([https://github.com/Mdot5596/CyberGladiator](#))  
-🔹 **[Zombie OpenGL Scene]** -  ([https://github.com/Mdot5596/Zombie-Scene-OpenGL)](#))  
 
+## 🚀 Projects  
+
+| Project | Description | Link |
+|---------|------------|------|
+| 🎯 **TimeLine Takedown** | A FPS wave-based survival game | [Play Now](https://morganhodge.itch.io/timeline-takedown) |
+| 🥫 **Fizz Up** | A 2D game that I created for the Spacebar GameJam | [Play Now](https://morganhodge.itch.io/fizz-pop) |
+| 🛡️ **Guard Duty** | A stealth team-vs-team game | [Play Now](https://guard-duty.itch.io/guard-duty) |
+| 🎮 **Cyber Gladiator** | A 2D OpenGL fighting game | [GitHub](https://github.com/Mdot5596/CyberGladiator) |
+| 🧟 **Zombie OpenGL Scene** | A horror scene made in OpenGL | [GitHub](https://github.com/Mdot5596/Zombie-Scene-OpenGL) |
+| 💣 **Fallout Can OpenGL Scene** | An OpenGL project utilizing a custom shading model implemented in GLSL, showcasing a texture-based technique. | [GitHub](https://github.com/Mdot5596/NukaCola-OpenGL-Scene) |
+
+##
 
 By the time I graduate, I want to have a fully completed portfolio website, showcasing my polished version of Timeline Takedown (my final year project) along with other projects I have worked on. 
 
