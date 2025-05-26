@@ -6,7 +6,7 @@ I am a game developer who specialises in Unity. More specifically, I am passiona
 Most of my experience has been in 3D games using Unity, I am keen to learn and try out new game engines and different game styles. 
 
 - 🔹 Currently working on: **TimeLine Takedown**  
-- 🎓 Final Year Student at **University of Plynouth**  
+- 🎓 Final Year Student at **University of Plymouth**  
 - 🌱 Exploring **OpenGL Shading, Unity 5, UnrealEngine**  
 - 🌍 Aspiring to work internationally in the future  
 
