@@ -8,7 +8,7 @@ First-class Computer Science graduate from the University of Plymouth with a str
 I am always willing to learn and adapt to new technologies and environments. I quickly become passionate about what I am working on and enjoy the journey it takes me on. I am hardworking and thrive in team settings. I am always excited to start something new and see it through to the end, where I can appreciate the final product. 
 
 ## 🛠️ Skills  
-**Game Development:** Unity, C#
+**Game Development:** ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 **Graphics & Shaders:** OpenGL, GLSL, Shader Graph  
 
@@ -32,6 +32,7 @@ I am always willing to learn and adapt to new technologies and environments. I q
 These are only a handfull of my projects, Portfolio and additional projects available at morganhodge.co.uk and via GitHub.
 
 ##
+
 
 
 ## 🌐 Connect with Me  
