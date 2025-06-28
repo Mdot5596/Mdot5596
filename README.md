@@ -29,15 +29,10 @@ I am always willing to learn and adapt to new technologies and environments. I q
 | 🧟 **Zombie OpenGL Scene** | A horror scene made in OpenGL | [GitHub](https://github.com/Mdot5596/Zombie-Scene-OpenGL) |
 | 💣 **Fallout Can OpenGL Scene** | An OpenGL project utilizing a custom shading model implemented in GLSL, showcasing a texture-based technique. | [GitHub](https://github.com/Mdot5596/NukaCola-OpenGL-Scene) |
 
-
+These are only a handfull of my projects, Portfolio and additional projects available at morganhodge.co.uk and via GitHub.
 
 ##
 
-By the time I graduate, I want to have a fully completed portfolio website, showcasing my polished version of Timeline Takedown (my final year project) along with other projects I have worked on. 
-
-My goal is to find a game development job as soon as I finish university. I don’t have a preference for a specific company—I just want to start working, gaining real-world experience, and growing as a developer. 
-
-In the future, once I have industry experience, I want to move outside of England to work in different places and experience new cultures. While I am eager to leave England, I believe it would be smarter to stay here for the first few years of my career to gain work experience. I think securing my first job will be much easier here than in a different country. 
 
 ## 🌐 Connect with Me  
 💼 LinkedIn: https://www.linkedin.com/in/morgan-hodge-860854256/  
