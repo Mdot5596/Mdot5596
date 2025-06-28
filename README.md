@@ -3,26 +3,18 @@
 ## 🎮 About Me  
 I am a game developer who specialises in Unity. More specifically, I am passionate about level design and the small mechanics in games. I love the attention to detail that goes into games and how it helps immerse the player in the game’s world, and I want to be part of the reason this can happen. 
 
-Most of my experience has been in 3D games using Unity, I am keen to learn and try out new game engines and different game styles. 
-
-- 🔹 Currently working on: **TimeLine Takedown**  
-- 🎓 Final Year Student at **University of Plymouth**  
-- 🌱 Exploring **OpenGL Shading, Unity 5, UnrealEngine**  
-- 🌍 Aspiring to work internationally in the future  
+First-class Computer Science graduate from the University of Plymouth with a strong foundation in 3D game development using Unity and a deep passion for technology and interactive media. Currently expanding my skills into Unreal Engine 5 and eager to explore diverse game development tools and styles. Seeking opportunities to contribute to creative and technically challenging projects while preparing to pursue a master’s degree in Games Development.
 
 I am always willing to learn and adapt to new technologies and environments. I quickly become passionate about what I am working on and enjoy the journey it takes me on. I am hardworking and thrive in team settings. I am always excited to start something new and see it through to the end, where I can appreciate the final product. 
 
 ## 🛠️ Skills  
 **Game Development:** Unity, C#
+
 **Graphics & Shaders:** OpenGL, GLSL, Shader Graph  
+
 **Tools & Tech:** Git, GitHub, Blender, Figma, Website Dev
+
 **Other:** Agile Development, Game Design Principles  
-
-Right now, I am working on a 3D FPS wave-based shooter in Unity for my final year project. I am the sole developer for this project, and you can find more details on my Itch.io page. 
-
-Alongside this, I am working on my OpenGL shading module, where I am creating scenes that utilize different shading and lighting features. You can find more about this in my GitHub repository here. 
-
-I am also actively engaging with the industry by attending events and working to find my place in the game development field. 
 
 
 ## 🚀 Projects  
@@ -36,6 +28,8 @@ I am also actively engaging with the industry by attending events and working to
 | 🎮 **Cyber Gladiator** | A 2D OpenGL fighting game | [GitHub](https://github.com/Mdot5596/CyberGladiator) |
 | 🧟 **Zombie OpenGL Scene** | A horror scene made in OpenGL | [GitHub](https://github.com/Mdot5596/Zombie-Scene-OpenGL) |
 | 💣 **Fallout Can OpenGL Scene** | An OpenGL project utilizing a custom shading model implemented in GLSL, showcasing a texture-based technique. | [GitHub](https://github.com/Mdot5596/NukaCola-OpenGL-Scene) |
+
+
 
 ##
 
