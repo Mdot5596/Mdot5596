@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Morgan Hodge  
+<img src="https://raw.githubusercontent.com/mdot5596/mdot5596/main/banner.png" alt="Morgan Hodge Banner" width="100%" />
+
 
 ## 🎮 About Me  
 I am a game developer who specialises in Unity. More specifically, I am passionate about level design and the small mechanics in games. I love the attention to detail that goes into games and how it helps immerse the player in the game’s world, and I want to be part of the reason this can happen. 
